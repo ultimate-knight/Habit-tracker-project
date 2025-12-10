@@ -266,11 +266,3 @@ For issues, questions, or suggestions, please open an issue on GitHub or contact
 - [Heroicons](https://heroicons.com/)
 
 ---
-
-## Screenshots
-
-![Dashboard Skeleton Example](./public/maaz.jpeg)
-
----
-
-##

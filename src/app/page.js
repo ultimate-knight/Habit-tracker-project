@@ -8,7 +8,7 @@ import { faCoffee } from "@fortawesome/free-solid-svg-icons";
  import "@fortawesome/fontawesome-free/css/all.min.css";
  import Progressring from "@/Components/Progressring";
 import {Toothbrush,StarIcon,SettingsIcon,Ban,CarrotIcon,HeartIcon,Dog,PersonStandingIcon,Brush,PlusIcon,PauseIcon,CigaretteOffIcon,PlayIcon} from "lucide-react"
-import { min } from "moment";
+
 
 
 export default function Homepage(){
